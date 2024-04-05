@@ -14,9 +14,11 @@ O pass.in é uma aplicação desenvolvida para facilitar o gerenciamento de part
 
 ## Tecnologias Utilizadas:
 
-- **Backend (Node.js):** O backend da aplicação foi desenvolvido em Node.js, utilizando Express.js para a construção da API e SQLite como banco de dados relacional.
+- **Backend (Python):** O backend da aplicação foi desenvolvido em python. Utilizando Python como linguagem de programação, Flask como framework web, preparação de ambiente e boas práticas de projeto com Virtualenv, Pylint e versionamento de código usando pre-commit, boas práticas de código com entidades, services e repositories + testes automatizados com Pytest. E do lado do banco de dados fomo de SQLite como banco de dados relacional.
+- **Se desejar acompanhar o projeto backend abaixo o link para o repositorio**
+  https://github.com/MyTruQs/nlw-unite-python
 
-- **Frontend (React.js):** O frontend foi construído utilizando React.js, proporcionando uma interface dinâmica e responsiva para os usuários.
+- **Frontend (React.js):** O frontend foi construído utilizando React.js, onde houve a aplicação dos conceitos de Propriedades, Estados e Componentes, tipagem com Typescript, tooling com Vite, interface responsiva com TailwindCSS, consumo de API Node.js, uso de URL states. Assim proporcionando uma interface dinâmica e responsiva para os usuários.
 
 ## Documentação da API:
 
